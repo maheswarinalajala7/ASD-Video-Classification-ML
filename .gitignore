@@ -1,0 +1,12 @@
+
+very_large_data/
+proper_features/
+proper_features_5frames/
+test_features/
+small_test_data/
+small_test_features/
+__pycache__/
+catboost_info/
+*.pyc
+.env
+testing_results.csv
